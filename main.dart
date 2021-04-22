@@ -13,6 +13,7 @@ var location = 'Tirana' .toUpperCase();
 var monthsInLocation = 5;
 final priceOfBeer = 0.75; // use 'final' to declare a variable if the argument (0.75) will not change.
 
+
 void main(){
   print(firstName);
   print(lastName);
